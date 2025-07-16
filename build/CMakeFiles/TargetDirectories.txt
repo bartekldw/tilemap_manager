@@ -1,3 +1,0 @@
-/home/bartolini/Desktop/SFML/srednio-zaawansowane/tile_map_1/build/CMakeFiles/main.dir
-/home/bartolini/Desktop/SFML/srednio-zaawansowane/tile_map_1/build/CMakeFiles/edit_cache.dir
-/home/bartolini/Desktop/SFML/srednio-zaawansowane/tile_map_1/build/CMakeFiles/rebuild_cache.dir
