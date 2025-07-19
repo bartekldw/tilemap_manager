@@ -47,3 +47,5 @@ cmake
 
 The project is also using external libraries:
 <a href="https://github.com/native-toolkit/libtinyfiledialogs">tinyfiledialogs</a>
+and
+<a href="https://github.com/dacap/clip/tree/main">clips</a>
