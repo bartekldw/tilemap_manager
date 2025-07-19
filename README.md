@@ -42,3 +42,8 @@ cmake
 ```bash
 ./main
 ```
+
+## Additional libraries
+
+The project is also using external libraries:
+<a href="https://github.com/native-toolkit/libtinyfiledialogs">tinyfiledialogs</a>
