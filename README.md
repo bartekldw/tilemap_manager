@@ -52,4 +52,4 @@ and
 
 ## Compability
 
-Project is built to be cross-platform. Built on Ubuntu 24.04 LTS, also tested on Windows 11
+Built on Ubuntu 24.04 LTS, also tested on Windows 11
