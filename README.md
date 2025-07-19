@@ -6,6 +6,8 @@ Whether you're building a pixel-art platformer, a top-down RPG, or just prototyp
 With minimal dependencies and a clean codebase, it's perfect for small indie projects, game jams, or as a base for more complex systems.  
 No bloat, no nonsense — just a solid, efficient workflow for handling tile-based maps.
 
+![Main menu](assets/example_menu.png)
+
 ## Key Features
 
 - **Fast & lightweight** – optimized for performance and quick startup
