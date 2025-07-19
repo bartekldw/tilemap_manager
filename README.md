@@ -15,7 +15,7 @@ No bloat, no nonsense — just a solid, efficient workflow for handling tile-bas
 - **Modular design** – hack it, extend it, make it yours
 
 
-## How to build and run:
+## How to build and run: (make sure you have the latest SFML installed!)
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/bartekldw/tilemap_manager.git
