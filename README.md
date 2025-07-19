@@ -13,3 +13,32 @@ No bloat, no nonsense — just a solid, efficient workflow for handling tile-bas
 - **Flexible tilemap structure** – easy to integrate into your game or engine
 - **Simple import/export system** – for saving and loading tilemaps
 - **Modular design** – hack it, extend it, make it yours
+
+
+## How to build and run:
+### 1. Clone the repository
+```bash
+git clone https://github.com/bartekldw/tilemap_manager.git
+cd tilemap_manager
+```
+
+### 2. Create a build directory
+```bash
+mkdir build
+cd build
+```
+
+### 3. Run CMake
+```bash
+cmake ..
+```
+
+### 4. Build the project
+```bash
+cmake
+```
+
+### 5. Run the executable
+```bash
+./main
+```
