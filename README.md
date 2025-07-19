@@ -55,3 +55,10 @@ and
 ## Compability
 
 Built on Ubuntu 24.04 LTS, also tested on Windows 11
+
+## Support me!
+<p align="center">
+  <a href="https://buymeacoffee.com/brtekld_prog" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Help%20me%20grow%20passion-yellow?style=for-the-badge" alt="Buy Me A Coffee">
+  </a>
+</p>
