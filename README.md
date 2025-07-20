@@ -1,6 +1,6 @@
 # Retro Tilemap Manager
 
-Showcase
+Showcase:
 <a href="https://www.youtube.com/watch?v=1uRhPar741U">youtube video</a>
 
 **Retro Tilemap Manager** is a lightweight, fast, and easy-to-use tilemap management tool designed with a retro aesthetic in mind built in SFML.
