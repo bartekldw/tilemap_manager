@@ -40,7 +40,7 @@ cmake ..
 
 ### 4. Build the project
 ```bash
-cmake
+make
 ```
 
 ### 5. Run the executable
